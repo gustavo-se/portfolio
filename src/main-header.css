@@ -1,0 +1,14 @@
+.mainH{
+    background: url(https://images.pexels.com/photos/4810501/pexels-photo-4810501.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800);
+    background-size: cover;
+    height: 100vh;
+}
+.box{
+    flex-direction: column;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    background: rgba(220, 221, 225,0.7);
+    width: 300px;
+    margin-top: 100px;
+}

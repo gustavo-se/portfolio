@@ -1,0 +1,10 @@
+.card{
+    width: 15rem;  
+    
+}
+.card-body{
+    height: 14.5rem;
+}
+.card:hover{
+   border: 1px solid white;
+}
