@@ -1,15 +1,21 @@
 import React from 'react';
-import Navegador from './Navegador'
 import Presentacion from './Presentacion'
 import Main from './Main'
+import Footer from './Footer'
 
 const Portfolio =() => (
     <div className="portfolio">
-        {/* head */}
-        <Presentacion/>
-        {/* main */}
-        <Main />
-        {/* footer */}
+        <head>
+             <Presentacion/>
+        </head>
+        
+        <section>
+             <Main />
+        </section>
+        
+        <footer>
+            <Footer />
+        </footer>
     </div>
 )
 export default Portfolio;

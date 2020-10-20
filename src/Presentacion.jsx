@@ -2,7 +2,7 @@ import React from 'react'
 import Navegador from './Navegador'
 import './main-header.css'
 const Presentacion = () => (
-    <header className='mainH' >
+    <div className='mainH' >
         <Navegador />
     <div className='pt-5'>
     <div className="box lead d-flex align-items-center justify-content-center mx-auto p-3">
@@ -11,7 +11,7 @@ const Presentacion = () => (
         <a href="link" className='btn btn-outline-dark'>Contacto</a>
     </div>
     </div>
-    </header>
+    </div>
 )
 
 
