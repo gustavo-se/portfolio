@@ -6,7 +6,7 @@ const Main = () => (
     <div className="main">
         <h3 className="text-center py-3">Conocimientos</h3>
         <Conocimientos />
-        <h3 className='text-center py-3'> Sobre mi</h3>
+        <h3 className='text-center py-3 bg-light'> Sobre mi</h3>
         <Sobremi />
     </div>
 )

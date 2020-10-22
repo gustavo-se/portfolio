@@ -5,9 +5,9 @@ import Footer from './Footer'
 
 const Portfolio =() => (
     <div className="portfolio">
-        <head>
+        <header>
              <Presentacion/>
-        </head>
+        </header>
         
         <section>
              <Main />

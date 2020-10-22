@@ -14,6 +14,4 @@ const Presentacion = () => (
     </div>
 )
 
-
-
 export default Presentacion
