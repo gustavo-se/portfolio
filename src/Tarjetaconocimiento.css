@@ -1,9 +1,8 @@
 .card{
-    width: 15rem;    
-}
-.card-body{
-    height: 15.5rem;
+    width: 16rem; 
+    border-radius: 15px;   
 }
 .card:hover{
    border: 1px solid white;
+   
 }
