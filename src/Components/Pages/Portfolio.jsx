@@ -1,12 +1,12 @@
 import React from 'react';
-import Presentacion from './Presentacion'
+import Presentation from '../Organism/Presentation'
 import Main from './Main'
-import Footer from './Footer'
+import Footer from '../Molecules/Footer'
 
 const Portfolio =() => (
     <div className="portfolio">
         <header>
-             <Presentacion/>
+             <Presentation/>
         </header>
         
         <section>
