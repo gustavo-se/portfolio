@@ -5,7 +5,7 @@ import Knowledge from '../Organism/Knowledge'
 
 const Main = () => (
     <div className="main">
-        <h3 className="text-center py-3 display-4 know" >Conocimientos</h3>
+        <h3 className="text-center py-3 know" >Conocimientos</h3>
         <Knowledge />
         <h3 className='text-center py-3 bg-light display-4'> Sobre mi</h3>
         <AboutMe />
