@@ -1,11 +1,5 @@
-.info{
-    flex:70;
-}
 .info h3,p{
     padding:10px 0;
-}
-.picture{
-    flex:30;
 }
 .picture img{
     height: 350px;
